@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/usr/local/google/home/trevorjohns/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ed727a8d9f247e2050281cb083f1c77b09dcb5cd">
+        <dex dex="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/pre-dexed/debug/guava-15.0-cec3ae98f63205c74d2d2069fbb038d8c9a93ddd.jar" />
+    </item>
+    <item
+        jar="/usr/local/google/home/trevorjohns/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/pre-dexed/debug/junit-4.12-966606385d3c7f3deb1e58ace4a5ec4c44dc7104.jar" />
+    </item>
+    <item
+        jar="/usr/local/google/home/trevorjohns/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/pre-dexed/debug/javax.inject-1-01696a63b453c2949af6c831a413cbcf7158b2b5.jar" />
+    </item>
+    <item
+        jar="/usr/local/google/home/trevorjohns/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.5.0/81241ff7078ef14f42ea2a8995fa09c096256e6b/javawriter-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81241ff7078ef14f42ea2a8995fa09c096256e6b">
+        <dex dex="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/pre-dexed/debug/javawriter-2.5.0-edec67b137ef53836fb4aa6adbd1510972a2aca5.jar" />
+    </item>
+    <item
+        jar="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/pre-dexed/debug/classes-650aa058abf2970f228375e9db9b9f2c71d73991.jar" />
+    </item>
+    <item
+        jar="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/pre-dexed/debug/classes-8ef0d0d8905f762bc8618a545bd9c1ade399c945.jar" />
+    </item>
+    <item
+        jar="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-f0ab877fa41f9046451d66ac197294c707eb8e91.jar" />
+    </item>
+    <item
+        jar="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-e1be6f5f7d406a6ebf0b775b9903f5cb2853e994.jar" />
+    </item>
+    <item
+        jar="/usr/local/google/home/trevorjohns/opt/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-99a1cac533faa5f15c13259f75350dee4ffc6c40.jar" />
+    </item>
+    <item
+        jar="/usr/local/google/home/trevorjohns/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.10.19/e8546f5bef4e061d8dd73895b4e8f40e3fe6effe/mockito-core-1.10.19.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e8546f5bef4e061d8dd73895b4e8f40e3fe6effe">
+        <dex dex="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/pre-dexed/debug/mockito-core-1.10.19-68a4755514e3b0b5541fb82ec9953c8b0bffbf55.jar" />
+    </item>
+    <item
+        jar="/usr/local/google/home/trevorjohns/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger-compiler/1.2.2/fa9b2f9ae597cedf2a66ef3e60662ff36bb60e57/dagger-compiler-1.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fa9b2f9ae597cedf2a66ef3e60662ff36bb60e57">
+        <dex dex="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/pre-dexed/debug/dagger-compiler-1.2.2-d8c27a8305814e4c848b8fd8cbad09123ab8bf11.jar" />
+    </item>
+    <item
+        jar="/usr/local/google/home/trevorjohns/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.1/87c0ea803b69252868d09308b4618f766f135a96/objenesis-2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="87c0ea803b69252868d09308b4618f766f135a96">
+        <dex dex="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/pre-dexed/debug/objenesis-2.1-f0c41bb78df68028052f8ec0f2338f5b2d5c7b9c.jar" />
+    </item>
+    <item
+        jar="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/pre-dexed/debug/classes-179c7eb9546e553106bc8095d3cc9710c10c6eb8.jar" />
+    </item>
+    <item
+        jar="/usr/local/google/home/trevorjohns/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/pre-dexed/debug/hamcrest-core-1.3-8d2976c80fd3ae2b03355459319b42e9d74a3034.jar" />
+    </item>
+    <item
+        jar="/usr/local/google/home/trevorjohns/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.2/e8f912ee19ad84958510883ea191135276b091f8/dagger-1.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="/usr/local/google/home/trevorjohns/code/android/mnc-docs/developers/build/prebuilts/gradle/AsymmetricFingerprintDialog/Application/build/intermediates/pre-dexed/debug/dagger-1.2.2-0056e8a191c501b1fabe00a744a11d17f3e7ef8a.jar" />
+    </item>
+
+</items>
