@@ -1,5 +1,5 @@
 
-Android Asymmetric Fingerprint Dialog Sample Sample
+Android AsymmetricFingerprintDialog Sample
 ===================================
 
 A sample that demonstrates to use registered fingerprints to authenticate the user in your app
@@ -39,7 +39,7 @@ Pre-requisites
 --------------
 
 - Android SDK v23
-- Android Build Tools v23.0.1
+- Android Build Tools v23.0.2
 - Android Support Repository
 
 Screenshots

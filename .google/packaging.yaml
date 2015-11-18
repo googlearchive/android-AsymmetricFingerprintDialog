@@ -9,7 +9,7 @@ technologies: [Android]
 categories:   [security]
 languages:    [Java]
 solutions:    [Mobile]
-github:       android-Asymmetric Fingerprint Dialog Sample
+github:       android-AsymmetricFingerprintDialog
 level:        INTERMEDIATE
 icon:         screenshots/big-icon.png
 apiRefs:
